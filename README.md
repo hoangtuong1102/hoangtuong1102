@@ -28,19 +28,19 @@ I'm a software developer with a passion for creating amazing web applications an
 
 
 ## 📚 Featured Projects
-### [My Portfolio](https://github.com/hoangtuong1102/hoangtuong-portfolio)
+### :man_technologist: [My Portfolio](https://github.com/hoangtuong1102/hoangtuong-portfolio)
 This project showcases my skills, background, and some of the projects I've worked on. It is designed to give potential employers and collaborators a better understanding of my capabilities and experience.
 
-### [Tuong Bank App](https://github.com/hoangtuong1102/tuong-bank-app)
+### :bank: [Tuong Bank App](https://github.com/hoangtuong1102/tuong-bank-app)
 This project is a web application simulating a banking system where users can log in, view their account balance, perform transfers, request loans, and close accounts. The application is built using HTML, CSS, and JavaScript.
 
-### [Guess My Number!](https://github.com/hoangtuong1102/guess-number)
+### :interrobang: [Guess My Number!](https://github.com/hoangtuong1102/guess-number)
 "Guess My Number!" is a fun and interactive game where players try to guess a randomly generated number between 1 and 20. The game keeps track of the player's score and high score.
 
-### [Pig Game](https://github.com/hoangtuong1102/pig-game)
+### :question: [Pig Game](https://github.com/hoangtuong1102/pig-game)
 Pig Game is a simple and fun dice game developed using HTML, CSS, and JavaScript. Players take turns rolling a dice to accumulate points, and the first player to reach 100 points wins the game.
 
-### [Tin Dog](https://github.com/hoangtuong1102/tinder_fake)
+### :couple: [Tin Dog](https://github.com/hoangtuong1102/tinder_fake)
 TinDog is the ultimate platform for dog lovers to connect their furry friends with other dogs nearby. Our website offers a fun and interactive way to help your dog find companionship and love.
 
 
