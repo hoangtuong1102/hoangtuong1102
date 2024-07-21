@@ -17,6 +17,9 @@ I'm a software developer with a passion for creating amazing web applications an
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📚 Featured Projects
+### [My Portfolio](https://github.com/hoangtuong1102/hoangtuong-portfolio)
+This project showcases my skills, background, and some of the projects I've worked on. It is designed to give potential employers and collaborators a better understanding of my capabilities and experience.
+
 ### [Tuong Bank App](https://github.com/hoangtuong1102/tuong-bank-app)
 This project is a web application simulating a banking system where users can log in, view their account balance, perform transfers, request loans, and close accounts. The application is built using HTML, CSS, and JavaScript.
 
