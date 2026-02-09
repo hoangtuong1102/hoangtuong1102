@@ -36,9 +36,6 @@ I'm a software developer with a passion for creating amazing web applications an
 
 
 ## 📚 Featured Projects
-### :man_technologist: [My Portfolio](https://github.com/hoangtuong1102/hoangtuong-portfolio)
-[Live review](https://hoangtuong1102.github.io/hoangtuong-portfolio/) <br>
-This project showcases my skills, background, and some of the projects I've worked on. It is designed to give potential employers and collaborators a better understanding of my capabilities and experience.
 
 ### :bank: [Tuong Bank App](https://github.com/hoangtuong1102/tuong-bank-app)
 [Live review](https://hoangtuong1102.github.io/tuong-bank-app/) <br>
