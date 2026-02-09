@@ -24,6 +24,14 @@ I'm a software developer with a passion for creating amazing web applications an
 + Deep Learning for GENERAL (G検定)
 + Neural Networks and Deep Learning (DeepLearning.AI)
 + Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (DeepLearning.AI)
++ AWS Certified Cloud Practitioner
++ AWS Certified AI Practitioner
++ AWS Certified Solutions Architect - Associate
++ AWS Certified Data Engineer - Associate
++ AWS Certified Machine Learning Engineer - Associate
++ AWS Certified Solutions Architect - Professional
++ AWS Certified CloudOps Engineer - Associate
++ AWS Certified Machine Learning - Specialty
 
 
 
