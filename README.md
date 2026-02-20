@@ -35,28 +35,6 @@ I'm a software developer with a passion for creating amazing web applications an
 
 
 
-## 📚 Featured Projects
-
-### :bank: [Tuong Bank App](https://github.com/hoangtuong1102/tuong-bank-app)
-[Live review](https://hoangtuong1102.github.io/tuong-bank-app/) <br>
-This project is a web application simulating a banking system where users can log in, view their account balance, perform transfers, request loans, and close accounts. The application is built using HTML, CSS, and JavaScript.
-
-### :interrobang: [Guess My Number!](https://github.com/hoangtuong1102/guess-number)
-[Live review](https://hoangtuong1102.github.io/guess-number/) <br>
-"Guess My Number!" is a fun and interactive game where players try to guess a randomly generated number between 1 and 20. The game keeps track of the player's score and high score.
-
-### :question: [Pig Game](https://github.com/hoangtuong1102/pig-game)
-[Live review](https://hoangtuong1102.github.io/pig-game/) <br>
-Pig Game is a simple and fun dice game developed using HTML, CSS, and JavaScript. Players take turns rolling a dice to accumulate points, and the first player to reach 100 points wins the game.
-
-### :couple: [Tin Dog](https://github.com/hoangtuong1102/tinder_fake)
-[Live review](https://hoangtuong1102.github.io/tinder_fake/) <br>
-TinDog is the ultimate platform for dog lovers to connect their furry friends with other dogs nearby. Our website offers a fun and interactive way to help your dog find companionship and love.
-
-
-
-
-
 
 
 <!--
